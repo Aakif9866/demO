@@ -1,5 +1,6 @@
 # demO
-learning 
+
+learning
 this is my first change :
 <br>
-author : shuaib aakif
+author : shuaib aakif (college student)
